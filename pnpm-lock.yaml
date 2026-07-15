@@ -36,7 +36,7 @@ importers:
         specifier: ^0.545.0
         version: 0.545.0(react@19.2.7)
       nitro:
-        specifier: npm:nitro-nightly@latest
+        specifier: npm:nitro-nightly@4.0.0-20251010-091516-7cafddba
         version: nitro-nightly@4.0.0-20251010-091516-7cafddba(lru-cache@11.5.2)(rolldown@1.1.5)(vite@8.1.4(@types/node@22.20.1)(jiti@2.7.0))
       react:
         specifier: ^19.2.0
