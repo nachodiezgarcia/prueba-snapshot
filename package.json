@@ -16,6 +16,7 @@
     "check": "prettier --check ."
   },
   "dependencies": {
+    "@content-island/api-client": "^0.24.0",
     "@tailwindcss/vite": "^4.1.18",
     "@tanstack/react-devtools": "latest",
     "@tanstack/react-router": "latest",
